@@ -72,6 +72,9 @@ td {
   margin:  10px 24%;
   line-height: 2;
 }
+.skill-text-par {
+  line-height: 2;
+}
 
 .top-cloud {
   position: absolute;
