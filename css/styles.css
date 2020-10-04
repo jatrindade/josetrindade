@@ -70,7 +70,8 @@ hr {
 
 .education-par {
   text-align: left;
-  margin-left: 25%;
+  margin:  10px 24%;
+  line-height: 2;
 }
 
 .top-cloud {
@@ -106,6 +107,8 @@ hr {
 
 #identificacao {
   font-weight: normal;
+  margin-bottom: 0;
+  padding-bottom: 1.5rem;
 }
 
 .skill-row {
