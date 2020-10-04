@@ -40,6 +40,13 @@ hr {
   border-top: dotted 5px grey;
   margin: 70px auto;
 }
+table {
+  margin: auto auto auto 12%;
+}
+td {
+  text-align: left;
+  width: 20%;
+}
 .topContainer {
   background-color: #fabea7;
   margin: 0;
@@ -61,7 +68,7 @@ hr {
 .bottom-cloud {
   position: absolute;
   left: 150px;
-  bottom: 300px;
+  top: 250px;
   width: 150px;
 }
 .cv {
